@@ -4,6 +4,15 @@ My name is Cristine and I am a statistician. I am passionate about data and stat
 
 I am currently working on the statistical modelling of space weather extremes as a PhD student at Lancaster University.
 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauberc&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rauberc&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
+
 ![](https://komarev.com/ghpvc/?username=rauberc&label=Number+of+curious+people&color=blueviolet&style=for-the-badge)
 
 
