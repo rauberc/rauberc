@@ -9,12 +9,14 @@ I am currently working on the statistical modelling of space weather extremes as
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauberc&layout=compact)](https://github.com/rauberc/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=rauberc&show_icons=true" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauberc&layout=compact"/></td>
+    </tr>   
+  </table>
+</center> 
 
 ![](https://komarev.com/ghpvc/?username=rauberc&label=Times+this+page+has+been+viewed&color=blueviolet&style=for-the-badge)
 
