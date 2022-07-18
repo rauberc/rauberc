@@ -10,7 +10,7 @@ I am currently working on the statistical modelling of space weather extremes as
 <!-- Here you can find some projects I have done.
 
 
-![](https://komarev.com/ghpvc/?username=rauberc&label=Number of curious people&color=blueviolet&style=for-the-badge	
+![](https://komarev.com/ghpvc/?username=rauberc&label=Number+of+curious+people&color=blueviolet&style=for-the-badge	
 
 
 <!--
