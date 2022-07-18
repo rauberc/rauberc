@@ -4,11 +4,6 @@ My name is Cristine and I am a statistician. I am passionate about data and stat
 
 I am currently working on the statistical modelling of space weather extremes as a PhD student at Lancaster University.
 
-[![Cristine's GitHub stats](https://github-readme-stats.vercel.app/api?username=rauberc&show_icons=true)](https://github.com/rauberc/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauberc&layout=compact)](https://github.com/rauberc/github-readme-stats)
-
-
 <center>
   <table>
     <tr>
