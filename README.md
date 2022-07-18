@@ -9,7 +9,7 @@ I am currently working on the statistical modelling of space weather extremes as
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauberc&layout=compact)](https://github.com/rauberc/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=rauberc&label=Number+of+curious+people&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=rauberc&label=Times+this+page+has+been+viewed&color=blueviolet&style=for-the-badge)
 
 
 <!-- Along my journey as a researcher I have published some works that you can find below.
