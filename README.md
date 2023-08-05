@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/cristinerauber" target="blank"><img src="https://img.shields.io/twitter/follow/cristinerauber?logo=twitter&style=for-the-badge" alt="cristinerauber" /></a> </p>
 
-- 🔭 I’m currently working on **the statistical modelling of space weather extremes**
+- 🔭 I’m an Applied Scientist @ [Yelp|https://www.yelp.careers/us/en/]
 
-- 🌱 I’m currently learning **Python, JavaScript, SQL, HTML, CSS**
+- 🔭 I’m currently working on **the statistical modelling of space weather extremes and process monitoring of rates and proportions** as a result of my PhD in Statistics at Lancaster University
+
+- 🌱 I’m currently learning **Python and Spark**
 
 - 📫 How to reach me **rauberoliveira@gmail.com**
 
