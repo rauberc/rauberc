@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cristine</h1>
-<h3 align="center">A passionate data scientist from Brazil and living in the UK</h3>
+<h5 align="justify">I am a data scientist with a strong foundation in statistical theory and practical experience, I bring a wealth of knowledge and expertise to various domains. My proficiency in data analysis involves working with large datasets, cleaning and transforming data, and extracting valuable insights. I have a strong background in using statistical software and programming languages, allowing me to develop customized analytical solutions.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rauberc&label=Profile%20views&color=0e75b6&style=flat" alt="rauberc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cristinerauber" target="blank"><img src="https://img.shields.io/twitter/follow/cristinerauber?logo=twitter&style=for-the-badge" alt="cristinerauber" /></a> </p>
 
 - 🔭 I’m an Applied Scientist @ [Yelp](https://www.yelp.careers/us/en/)
-
-- 🌱 I’m currently learning **Python and Spark**
 
 - 📫 How to reach me **rauberoliveira@gmail.com**
 
