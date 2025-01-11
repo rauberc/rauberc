@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rauberc&label=Profile%20views&color=0e75b6&style=flat" alt="rauberc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cristinerauber" target="blank"><img src="https://img.shields.io/twitter/follow/cristinerauber?logo=twitter&style=for-the-badge" alt="cristinerauber" /></a> </p>
 
 - 🔭 I’m an Applied Scientist @ [Yelp](https://www.yelp.careers/us/en/)
 
